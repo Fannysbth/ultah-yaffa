@@ -110,7 +110,7 @@ export const Finale: React.FC<FinaleProps> = ({ onFinish }) => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5 }}
           >
-            🥳TYSA YAFFA SERIMILKA SIMBOLON🥳
+            🥳TYSA YAFFA SEREMILKA SIMBOLON🥳
           </motion.h2>
 
           {showMessage && (
